@@ -9,11 +9,8 @@ void setup() {
 }
 
 
-      
+
 void loop()
 {
-  sensorUS1();
-  sensorUS2();
-  sensorUS3();
+  ultraschall.Sensor
 }
-
